@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to the public page of the SmartWater sensor. Here we share the important updates regarding the development of the sensor.
+
+Please see the discussions page to discovered options for contributions.
 <!--
 
 **Here are some ideas to get you started:**
